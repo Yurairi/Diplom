@@ -131,6 +131,6 @@
 
 ## Дополнительные материалы
 
-- [Текст дипломной работы](ссылка)
-- [Презентация проекта](ссылка)
-- [Видео демонстрация](ссылка)
+- [Текст дипломной работы]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
+- [Презентация проекта]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
+- [Видео демонстрация]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
