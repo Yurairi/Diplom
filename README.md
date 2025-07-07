@@ -62,13 +62,16 @@
 
 **Визуальное сравнение**:
 
+**Результаты сегментации U-Net**
+
 <img src="prev_images/comparison1.jpg" width="600">
 
-**Результаты сегментации U-Net**
+
+**Результаты сегментации YOLOv11**
 
 <img src="prev_images/comparison2.jpg" width="650">
 
-**Результаты сегментации YOLOv11**
+
 
 **Итоговые результаты с YOLOv11 в приложении на различных входных данных**:
 
@@ -130,6 +133,6 @@
 
 ## Дополнительные материалы
 
-- [Текст дипломной работы]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
-- [Презентация проекта]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
-- [Видео демонстрация]([ссылка](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing))
+- [Текст дипломной работы](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing)
+- [Презентация проекта](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing)
+- [Видео демонстрация](https://drive.google.com/drive/folders/15StTHT21f5fFSkh66ZMh8EUPHLujXCtF?usp=sharing)
