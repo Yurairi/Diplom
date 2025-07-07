@@ -30,6 +30,7 @@
 **Типы данных**:
 - Прямые снимки с аппаратов УЗИ
 - Фото экранов УЗИ
+- Аугментированные данные
 
 **Разметка**:
 - Выполнена экспертами через Label Studio
@@ -38,14 +39,18 @@
 
 **Примеры данных**:
 
-![УЗИ с аппарата](prev_images/device_scan_1.jpg)  
-*Прямой снимок брюшной полости с УЗИ-аппарата*
+**Прямой снимок брюшной полости с УЗИ-аппарата**
 
-![УЗИ с аппарата](prev_images/device_scan_2.jpg)  
-*Прямой снимок плечевого сустава с УЗИ-аппарата*
+<img src="prev_images/device_scan_1.jpg" width="600">   
 
-![Мобильное фото](prev_images/mobile_capture.jpg)  
-*Фото экрана УЗИ через камеру телефона*
+**Прямой снимок плечевого сустава с УЗИ-аппарата**
+
+<img src="prev_images/device_scan_2.jpg" width="600">  
+
+**Фото экрана УЗИ через камеру телефона**
+
+<img src="prev_images/mobile_capture.jpg" width="400">  
+
 
 ## Результаты обучения
 
@@ -58,18 +63,19 @@
 
 **Визуальное сравнение**:
 
-![Сравнение результатов](prev_images/comparison1.jpg)  
-*Результаты сегментации U-Net*
+<img src="prev_images/comparison1.jpg" width="600">
 
-![Сравнение результатов](prev_images/comparison2.jpg)  
-*Результаты сегментации YOLOv11*
+**Результаты сегментации U-Net**
+
+<img src="prev_images/comparison2.jpg" width="600">
+
+**Результаты сегментации YOLOv11**
 
 **Итоговые результаты с YOLOv11 в приложении на различных входных данных**:
 
-![Результаты YOLOv11](prev_images/yolo1.jpg)  
-![Результаты YOLOv11](prev_images/yolo2.jpg)  
-![Результаты YOLOv11](prev_images/yolo3.jpg)  
-*Результаты сегментации YOLOv11*
+<img src="prev_images/yolo1.jpg" width="500"> 
+<img src="prev_images/yolo2.jpg" width="500"> 
+<img src="prev_images/yolo3.jpg" width="500">
 
 ## Реализация
 
@@ -87,29 +93,37 @@
 
 **Скриншоты**:
 
-![Главный экран](prev_images/screen1.jpg)  
-*Главный экран приложения*
+**Главный экран приложения**
 
-![Окно параметров](prev_images/screen2.jpg)  
-*Окно параметров*
+<img src="prev_images/screen1.jpg" width="200"> 
 
-![Окно настроек](prev_images/screen3.jpg)  
-*Окно настроек и советов по использованию*
+**Окно параметров**
 
-![Выбор изображения](prev_images/screen4.jpg)  
-*Выбор источника изображения*
+<img src="prev_images/screen2.jpg" width="200"> 
 
-![Предпросмотр](prev_images/screen5.jpg)  
-*Окно предпросмотра*
+**Окно настроек и советов по использованию**
 
-![Инструменты редактирования](prev_images/screen6.jpg)  
-*Функции редактирования*
+<img src="prev_images/screen3.jpg" width="300"> 
 
-![Инструменты редактирования](prev_images/screen7.jpg)  
-*Функции редактирования*
+**Выбор источника изображения**
 
-![Окно вывода результата](prev_images/screen8.jpg)  
-*Окно вывода результата*
+<img src="prev_images/screen4.jpg" width="200"> 
+
+**Окно предпросмотра**
+
+<img src="prev_images/screen5.jpg" width="200"> 
+
+**Функции редактирования**
+
+<img src="prev_images/screen6.jpg" width="300"> 
+
+**Функции редактирования**
+
+<img src="prev_images/screen7.jpg" width="300"> 
+
+**Окно вывода результата**
+
+<img src="prev_images/screen8.jpg" width="200"> 
 
 ## Итоговый результат
 
@@ -119,3 +133,4 @@
 
 - [Текст дипломной работы](ссылка)
 - [Презентация проекта](ссылка)
+- [Видео демонстрация](ссылка)
