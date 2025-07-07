@@ -66,7 +66,7 @@
 
 **Результаты сегментации U-Net**
 
-<img src="prev_images/comparison2.jpg" width="600">
+<img src="prev_images/comparison2.jpg" width="650">
 
 **Результаты сегментации YOLOv11**
 
